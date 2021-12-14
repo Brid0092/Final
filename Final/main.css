@@ -568,9 +568,6 @@ span {
         margin: auto;
     }
 
-    .li {
-        display: ;
-    }
 
     ul li {
         display: inline;
@@ -630,6 +627,7 @@ span {
     }
 
     .star {
+        display: inline;
         padding-top:5px;
         padding-left: 10px;
         width: 50px;
