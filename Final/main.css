@@ -49,6 +49,8 @@ table {
 /* 
 
 /* ♥ Mobile Styles ♥ */
+
+/* ♥  Start of nav bar styles  ♥  */
 html {
     font-family:"open-sans", sans-serif;
 }
@@ -107,6 +109,11 @@ a:hover {
     width: 680px;
 }
 
+/* ♥  End of nav bar styles  ♥  */
+
+/* ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  */
+
+/* ♥  Start of Welcome area  ♥  */
 
 .banner {
     position: absolute;
@@ -146,6 +153,12 @@ h1 {
     font-size: 1.6rem;
 }
 
+/* ♥  End of Welcome area  ♥  */
+
+/* ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥   */
+
+/* ♥  Start of About us section  ♥  */
+
 .about {
     display: flex;
     flex-direction:column;
@@ -171,6 +184,12 @@ h1 {
     font-size: 19px;
     line-height: 1.9rem;
 }
+
+/* ♥ End of About us section  ♥ */
+
+/* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+/* ♥ Start of Our Services section  ♥ */
 
 .services {
     display:flex;
@@ -327,6 +346,12 @@ h1 {
     margin: 10px;
 }
 
+/* ♥ End of Our services section  ♥ */
+
+/* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+/* ♥ Start of Our Vision section  ♥ */
+
 
 .paperboat {
     width: 100%;
@@ -361,10 +386,15 @@ h1 {
     border-color:#c78c06;
 }
 
+/* ♥ End of our vision section  ♥ */
+/* 
+♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+/* ♥ Start of Our team section  ♥ */
+
 .john {
     width: 100%;
     box-sizing: border-box;
-    padding: 15px;
 }
 
 .ourteam {
@@ -421,7 +451,6 @@ h1 {
 .bob {
     width: 100%;
     box-sizing: border-box;
-    padding: 15px;
 }
 
 
@@ -459,6 +488,13 @@ h1 {
 
 
 }
+/* 
+♥ End our our team section  ♥ */
+
+/* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+/* ♥ Start of Contact us/messgage/Location section  ♥ */
+
 .contactus {
     font-size: 3.2rem;
     padding: 10px;
