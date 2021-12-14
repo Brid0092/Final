@@ -387,8 +387,8 @@ h1 {
 }
 
 /* ♥ End of our vision section  ♥ */
-/* 
-♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+/* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
 
 /* ♥ Start of Our team section  ♥ */
 
@@ -486,8 +486,7 @@ h1 {
 
 
 }
-/* 
-♥ End our our team section  ♥ */
+/* ♥ End our our team section  ♥ */
 
 /* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
 
@@ -543,7 +542,7 @@ input {
 
 /*♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥  */
 
-/* ♥  start of table section ♥  */
+/* ♥  start of table section + maps ♥  */
 
 .table {
     padding-top: 4px;
@@ -695,6 +694,12 @@ span {
         font-size: 0.8rem;
     }
 
+    /* ♥  End of nav bar styles  ♥  */
+
+    /* ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  */
+
+    /* ♥  Start of Welcome area  ♥  */
+
     .banner {
        position: absolute;
        top: 10%;
@@ -736,6 +741,12 @@ span {
         font-size: 0.9rem;
     }
 
+     /* ♥  End of Welcome area  ♥  */
+
+     /* ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥   */
+
+     /* ♥  Start of About us section  ♥  */
+
     .gameroom {
         padding: 15px;
         width: 45%;
@@ -763,7 +774,13 @@ span {
     .aboutinfo {
         line-height: 1.3rem;
     }
-   
+
+     /* ♥ End of About us section  ♥ */
+ 
+     /* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+     /* ♥ Start of Our Services section  ♥ */
+ 
     .ourservices {
         font-weight: bold;
         padding: 15px;
@@ -892,6 +909,11 @@ span {
         padding: 5px;
     }
 
+     /* ♥ End of Our services section  ♥ */
+
+     /* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+     /* ♥ Start of Our Vision section  ♥ */
     .paperboat {
         width: 100%;
         height: 300px;
@@ -928,6 +950,12 @@ span {
         margin: 10px;
         border-color:#c78c06;
     }
+
+     /* ♥ End of our vision section  ♥ */
+
+     /* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+    /* ♥ Start of Our team section  ♥ */
 
     .team {
         display: grid;
@@ -987,6 +1015,12 @@ span {
         margin-right: 15px;
         position: relative;
     }
+
+     /* ♥ End our our team section  ♥ */
+
+     /* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ */
+
+     /* ♥ Start of Contact us/messgage/Location section  ♥ */
 
     .contactus {
         font-size: 3.2rem;
@@ -1054,6 +1088,12 @@ span {
         color: #c78e07;
         margin: 10px;
     }
+
+     /* ♥ End of conact section  ♥ */
+ 
+     /*♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥  */
+
+    /* ♥  start of table section ♥  */
     
     .hours {
         padding: auto;
@@ -1092,6 +1132,12 @@ span {
         font-weight: bold;
     
     }
+
+     /* ♥  end of table section ♥   */
+
+     /* ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥  */
+
+    /* ♥  start of footer section + maps ♥  */
     
     .google-maps {
         width: 100%;
@@ -1116,7 +1162,7 @@ span {
         text-decoration:underline;
     
     }
-    
+    /* ♥  End of footer section ♥ */
 }
 
 
