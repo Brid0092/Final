@@ -568,16 +568,15 @@ span {
         margin: auto;
     }
 
-    .il {
-        display: inline-block;
+    .li {
+        display: ;
     }
 
     ul li {
-        display: inline-block;
+        display: inline;
         padding-left: 30px;
         padding-right: 30px;
         color:#c78e07;
-        margin-top: 100px;
         flex-shrink: 0; 
     }  
  
@@ -597,19 +596,23 @@ span {
     }
 
     .topcontainer {
-        display: inline;
+        display: flex;
         width: 1200px;
         margin: auto;
     }
 
     .first-ul {
         display: inline;
+        padding-left: 65px;
+        padding-top: 25px;
     }
 
     .menu {
         background-color: #222;
         display: flex;
-        align-items: center;
+        justify-content: center;
+        padding-top: 25px;
+        padding-bottom: 10px;
         
     }
 
@@ -627,13 +630,13 @@ span {
     }
 
     .star {
-        padding-top:35px;
-        padding-left: 60px;
+        padding-top:5px;
+        padding-left: 10px;
         width: 50px;
     }
 
     .glass {
-        padding-top: 50px;
+        padding-top: 10px;
         display: flex;
         width: 150px;
         height: 40px;
